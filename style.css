@@ -133,7 +133,7 @@ section:nth-child(2n) {
   height: 75vh;
   min-height: 450px;
   font-size: 1rem;
-  background-image: url("https://images.wallpapersden.com/image/download/laptop-room-on-the-desk_Z2hnbGyUmZqaraWkpJRmbmdlrWZlbWU.jpg");
+  background-image: url("background.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
